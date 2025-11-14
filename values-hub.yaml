@@ -14,7 +14,7 @@ clusterGroup:
       namespace: open-cluster-management
       channel: release-2.14
       # csv: advanced-cluster-management.v2.6.1
-  argoProjects:
+  projects:
     - hub
     - config-demo
     - hello-world
